@@ -29,6 +29,7 @@ debug/
 *.ear
 *.tmp
 *.exe
+*.csv
 
 thumbs.db
 .DS_Store
